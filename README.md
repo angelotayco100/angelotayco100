@@ -16,7 +16,7 @@
 - 📚 Working through **TryHackMe's Security Analyst Level 1** path
 - 💻 Daily driver: **Arch Linux (i3wm)** on a ThinkPad X230 — yes, I ricochet between tiling window managers and CTF rooms
 - 🎯 Goal: land an entry-level **SOC Analyst L1** role and keep learning from there
-- 🐟 Off the clock: fishing, camping, casual off-roading, and researching diesel-engine SUVs
+- 🐟 Off the clock: fishing, Anime, Gaming, Gym, and researching diesel-engine SUVs
 
 ---
 
